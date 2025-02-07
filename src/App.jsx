@@ -4,7 +4,7 @@ function App() {
   return (
     // fragments
     <>    
-      <h1>Maaz Khan</h1>
+      <h1>Maaz Khan CS student</h1>
       <Chai/>
     </>
     
